@@ -1,0 +1,5 @@
+{
+  "name": "Control Indumentaria Altepetl",
+  "description": "Sistema de gestión de tallas y uniformes para el programa Altepetl Bienestar con control de usuarios y exportación a Excel.",
+  "requestFramePermissions": []
+}
